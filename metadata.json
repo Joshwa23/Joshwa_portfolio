@@ -1,0 +1,6 @@
+{
+  "name": "Joshwa Jeba Kumar Portfolio",
+  "description": "Interactive 3D developer portfolio and AI partner for Joshwa Jeba Kumar, featuring adaptive 3D effects and real-time AI recruitment chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
